@@ -1,4 +1,4 @@
-#code written by shubhank
+#code written by guhan
 
 from tkinter import *
 from tkinter import ttk
